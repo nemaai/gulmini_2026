@@ -1,0 +1,18 @@
+{
+    "quality_score": 99.26,
+    "quality_tag": "TRAIN",
+    "duration_sec": 5.0,
+    "n_samples": 1280,
+    "flat_channels": 0,
+    "dropout_channels": 0,
+    "bad_corr_channels": 0,
+    "bad_windows": 0,
+    "total_windows": 1,
+    "bad_window_ratio": 0.0,
+    "emg_score": 0.02414,
+    "line_noise_score": 0.00072,
+    "spectral_entropy": 2.9519,
+    "peak_alpha_freq_hz": 8.5,
+    "mean_amplitude_uv": 7.53,
+    "max_amplitude_uv": 55.31
+}

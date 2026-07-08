@@ -1,0 +1,10 @@
+{
+    "original_units": "microvolts",
+    "unit_conversion": true,
+    "sampling_rate": 256,
+    "shape": [
+        19,
+        1280
+    ],
+    "contract_violations": []
+}
