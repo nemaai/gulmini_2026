@@ -1,0 +1,18 @@
+{
+  "rows": 684,
+  "accuracy": 0.9051094890510949,
+  "auc": 0.9721649484536082,
+  "sensitivity": 0.925,
+  "specificity": 0.8969072164948454,
+  "features": [
+    "posterior_dominance_index",
+    "occipital_entropy",
+    "alpha_peak_gradient",
+    "entropy_gradient",
+    "theta_alpha_ratio_frontal",
+    "PCR",
+    "CLI",
+    "NIS",
+    "internal_brain_health_score"
+  ]
+}
