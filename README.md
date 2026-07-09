@@ -1,4 +1,4 @@
-# NemaAI EEG Platform (2026)
+# NemaAI EEG Analysis Platform (2026)
 
 ## Overview
 
