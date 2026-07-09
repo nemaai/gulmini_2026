@@ -95,3 +95,5 @@ For setup instructions, execution commands and project structure, refer to:
 ```
 DEVELOPER_GUIDE.md
 ```
+
+This guide has been prepared to facilitate a smooth technical handover and enable future development and maintenance of the repository.
