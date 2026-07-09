@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Output Files
+outputs/
+generated_reports/
+temp/
+tmp/
+
+# Models (if large)
+*.pt
+*.pth
+*.pkl
+*.h5
+
+# Data
+*.csv
+*.xlsx
+*.edf
+*.npy
+*.mat
+*.zip
+
+# OS Files
+.DS_Store
+Thumbs.db
