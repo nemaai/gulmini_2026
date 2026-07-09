@@ -1,0 +1,20 @@
+subject_id,stem,dataset,true_label,original_sfreq,shape,clean_npy
+sub-20001,sub-20001,BrainLat,1,512.0,"(19, 303015)",nema_final_used/final_npy_raw/BrainLat/sub-20001.npy
+sub-20003,sub-20003,BrainLat,1,512.0,"(19, 236403)",nema_final_used/final_npy_raw/BrainLat/sub-20003.npy
+sub-20006,sub-20006,BrainLat,1,512.0,"(19, 100550)",nema_final_used/final_npy_raw/BrainLat/sub-20006.npy
+sub-20009,sub-20009,BrainLat,1,512.0,"(19, 123092)",nema_final_used/final_npy_raw/BrainLat/sub-20009.npy
+sub-20010,sub-20010,BrainLat,1,512.0,"(19, 137466)",nema_final_used/final_npy_raw/BrainLat/sub-20010.npy
+sub-20012,sub-20012,BrainLat,1,512.0,"(19, 160414)",nema_final_used/final_npy_raw/BrainLat/sub-20012.npy
+sub-20013,sub-20013,BrainLat,1,512.0,"(19, 36151)",nema_final_used/final_npy_raw/BrainLat/sub-20013.npy
+sub-20014,sub-20014,BrainLat,1,512.0,"(19, 114999)",nema_final_used/final_npy_raw/BrainLat/sub-20014.npy
+sub-20015,sub-20015,BrainLat,1,512.0,"(19, 240841)",nema_final_used/final_npy_raw/BrainLat/sub-20015.npy
+sub-20016,sub-20016,BrainLat,1,512.0,"(19, 218317)",nema_final_used/final_npy_raw/BrainLat/sub-20016.npy
+sub-20017,sub-20017,BrainLat,1,512.0,"(19, 144716)",nema_final_used/final_npy_raw/BrainLat/sub-20017.npy
+sub-20018,sub-20018,BrainLat,1,512.0,"(19, 231729)",nema_final_used/final_npy_raw/BrainLat/sub-20018.npy
+sub-20019,sub-20019,BrainLat,1,512.0,"(19, 210711)",nema_final_used/final_npy_raw/BrainLat/sub-20019.npy
+sub-20002,sub-20002,BrainLat,1,512.0,"(19, 307447)",nema_final_used/final_npy_raw/BrainLat/sub-20002.npy
+sub-20004,sub-20004,BrainLat,1,512.0,"(19, 245575)",nema_final_used/final_npy_raw/BrainLat/sub-20004.npy
+sub-20005,sub-20005,BrainLat,1,512.0,"(19, 311514)",nema_final_used/final_npy_raw/BrainLat/sub-20005.npy
+sub-20007,sub-20007,BrainLat,1,512.0,"(19, 225591)",nema_final_used/final_npy_raw/BrainLat/sub-20007.npy
+sub-20008,sub-20008,BrainLat,1,512.0,"(19, 190289)",nema_final_used/final_npy_raw/BrainLat/sub-20008.npy
+sub-20011,sub-20011,BrainLat,1,512.0,"(19, 214320)",nema_final_used/final_npy_raw/BrainLat/sub-20011.npy

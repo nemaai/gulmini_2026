@@ -1,0 +1,26 @@
+subject_id,stem,dataset,true_label,original_sfreq,shape,clean_npy
+sub-02,sub-02_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 87500)",nema_final_used/final_npy_raw/DS005048/sub-02_task-40HzAuditoryEntrainment_eeg.npy
+sub-03,sub-03_task-40HzAuditoryEntrainment_eeg,DS005048,0,250,"(19, 87500)",nema_final_used/final_npy_raw/DS005048/sub-03_task-40HzAuditoryEntrainment_eeg.npy
+sub-04,sub-04_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 87500)",nema_final_used/final_npy_raw/DS005048/sub-04_task-40HzAuditoryEntrainment_eeg.npy
+sub-05,sub-05_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 87500)",nema_final_used/final_npy_raw/DS005048/sub-05_task-40HzAuditoryEntrainment_eeg.npy
+sub-07,sub-07_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 87500)",nema_final_used/final_npy_raw/DS005048/sub-07_task-40HzAuditoryEntrainment_eeg.npy
+sub-08,sub-08_task-40HzAuditoryEntrainment_eeg,DS005048,0,250,"(19, 87500)",nema_final_used/final_npy_raw/DS005048/sub-08_task-40HzAuditoryEntrainment_eeg.npy
+sub-09,sub-09_task-40HzAuditoryEntrainment_eeg,DS005048,0,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-09_task-40HzAuditoryEntrainment_eeg.npy
+sub-10,sub-10_task-40HzAuditoryEntrainment_eeg,DS005048,0,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-10_task-40HzAuditoryEntrainment_eeg.npy
+sub-11,sub-11_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-11_task-40HzAuditoryEntrainment_eeg.npy
+sub-12,sub-12_task-40HzAuditoryEntrainment_eeg,DS005048,0,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-12_task-40HzAuditoryEntrainment_eeg.npy
+sub-14,sub-14_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-14_task-40HzAuditoryEntrainment_eeg.npy
+sub-15,sub-15_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-15_task-40HzAuditoryEntrainment_eeg.npy
+sub-16,sub-16_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-16_task-40HzAuditoryEntrainment_eeg.npy
+sub-20,sub-20_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-20_task-40HzAuditoryEntrainment_eeg.npy
+sub-21,sub-21_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-21_task-40HzAuditoryEntrainment_eeg.npy
+sub-22,sub-22_task-40HzAuditoryEntrainment_eeg,DS005048,0,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-22_task-40HzAuditoryEntrainment_eeg.npy
+sub-23,sub-23_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-23_task-40HzAuditoryEntrainment_eeg.npy
+sub-25,sub-25_task-40HzAuditoryEntrainment_eeg,DS005048,0,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-25_task-40HzAuditoryEntrainment_eeg.npy
+sub-26,sub-26_task-40HzAuditoryEntrainment_eeg,DS005048,0,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-26_task-40HzAuditoryEntrainment_eeg.npy
+sub-29,sub-29_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-29_task-40HzAuditoryEntrainment_eeg.npy
+sub-30,sub-30_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-30_task-40HzAuditoryEntrainment_eeg.npy
+sub-31,sub-31_task-40HzAuditoryEntrainment_eeg,DS005048,0,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-31_task-40HzAuditoryEntrainment_eeg.npy
+sub-33,sub-33_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-33_task-40HzAuditoryEntrainment_eeg.npy
+sub-34,sub-34_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-34_task-40HzAuditoryEntrainment_eeg.npy
+sub-35,sub-35_task-40HzAuditoryEntrainment_eeg,DS005048,1,250,"(19, 147500)",nema_final_used/final_npy_raw/DS005048/sub-35_task-40HzAuditoryEntrainment_eeg.npy
